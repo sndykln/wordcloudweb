@@ -14,10 +14,6 @@ education:
     year: 2008
 email: "info@iclicks.nl"
 highlight_name: false
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 organizations:
 - name: iClicks
   url: https://www.iclicks.nl/
