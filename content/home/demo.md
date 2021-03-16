@@ -12,13 +12,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Hugo Academic Theme Demo
-subtitle:
+title: Wordcloud Tool
+subtitle: iClicks
 
 design:
   columns: "1"
   background:
-    image: open-book.jpg
+    image: iclicks.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
@@ -28,13 +28,11 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+De demo van de **Wordcloud Tool** voor iClicks.
 
 [Explore similar templates](https://wowchemy.com/templates/)
 
 **Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
-
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
 
 {{% callout note %}}
 This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
