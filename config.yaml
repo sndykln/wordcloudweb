@@ -4,10 +4,10 @@ theme: "starter-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wordcloud
+title: Wordcloud Webscraper
 baseurl: '/' # Website URL
 copyright: '&copy; 2021 Wordcloud'
-Subtitle: Hugo is Absurdly Fast!
+Subtitle: Website content webscraper
 
 ############################
 ## LANGUAGE
