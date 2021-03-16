@@ -6,8 +6,8 @@ theme: "starter-academic"
 
 title: Wordcloud Webscraper
 baseurl: '/' # Website URL
-copyright: &copy; 2021 Wordcloud Webscraper
-Subtitle: Website content webscraper
+copyright: '&copy; 2021 Wordcloud'
+Subtitle: Wordcloud tool
 
 ############################
 ## LANGUAGE
